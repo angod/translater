@@ -1,0 +1,25 @@
+{
+  "name": "translater",
+  "version": "0.0.1",
+  "description": "Node.js based CLI package for Google Translate and Multitran",
+  "main": "translater.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "google-translate-token": "^1.0.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "blessed": "^0.1.81",
+    "google-translate-token": "^1.0.0",
+    "request": "^2.79.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mofsp/translater.git"
+  },
+  "author": "ManOfSimplePleasures",
+  "license": "BSD-2-Clause"
+}
